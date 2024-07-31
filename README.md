@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm C S Alfred</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
-![Welcome](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csalfred&label=Profile%20views&color=0e75b6&style=flat" alt="csalfred" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csalfred" alt="csalfred" /></a> </p>
