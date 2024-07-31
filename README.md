@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csalfred" alt="csalfred" /></a> </p>
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **HTML,CSS,JavaScript,ethical hacking**
 
 - 📫 How to reach me **csalfred16@gmail.com**
 
