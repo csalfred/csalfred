@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm C S Alfred</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
-![Shop DesignStudio13's Design By Humans Collective Store](https://github.com/user-attachments/assets/096b5c97-9f54-4a41-b077-dbfa0d873e78)
+(https://github.com/user-attachments/assets/096b5c97-9f54-4a41-b077-dbfa0d873e78)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csalfred&label=Profile%20views&color=0e75b6&style=flat" alt="csalfred" /> </p>
 
