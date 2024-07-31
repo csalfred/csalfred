@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csalfred" alt="csalfred" /></a> </p>
 
-- 🌱 I’m currently learning **Ethical Hacking,UI design,machine learning,artificial intelligence,frontend,backend**
+- 🌱 I’m currently learning **HTML**
 
 - 📫 How to reach me **csalfred16@gmail.com**
 
